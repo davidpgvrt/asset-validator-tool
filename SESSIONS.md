@@ -16,3 +16,9 @@ Read by warm-up at start of next session. Most recent at top.
 - Hice: Acabar video Curtis Holt "Python Crash Course for Blender!"
 - Pendiente: Empezar CGPython de Victor Stepanov
 - Atascado en: nada
+
+## Sesión 14/05/2026 — Día 3
+- Objetivo: Completar (Part 1 - Basics) de CGPython en Skool de Victor Stepanov
+- Hice: Partes 1.1, 1.2 y 1.3 de CGPython en Skool de Victor Stepanov y una prueba de conocimientos hasta la fecha
+- Pendiente: Acabar (Part 1 - Basics) de CGPython en Skool de Victor Stepanov
+- Atascado en: nada
